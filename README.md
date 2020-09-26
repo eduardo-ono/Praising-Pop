@@ -10,8 +10,6 @@ By Eduardo Ono.
 
 <br>
 
-## Web Version
-
 https://eduardo-ono.github.io/Praising-Pop/
 
 <br>
