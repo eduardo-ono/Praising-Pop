@@ -65,8 +65,7 @@
 
         function init()
         {
-
-            $.getJSON('db.json', function (data) {
+            $.getJSON('./db.json', function (data) {
                 musicas = data.musicas;
             })
             .fail(function () {
